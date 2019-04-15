@@ -1,0 +1,9 @@
+On branch master
+Your branch is based on 'origin/master', but the upstream is gone.
+  (use "git branch --unset-upstream" to fixup)
+
+Untracked files:
+	pants.txt
+	shoes.txt
+
+nothing added to commit but untracked files present
